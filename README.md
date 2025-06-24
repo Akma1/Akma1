@@ -30,13 +30,13 @@
 <!-- first row -->
   <div align=center>
   <!-- streak stats -->
-    <a href="https://streak-stats.demolab.com?user=Akma1">
+    <!-- <a href="https://streak-stats.demolab.com?user=Akma1">
      <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Akma1" />
         <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://streak-stats.demolab.com?user=Akma1" />
         <img align="left" width=390 src="https://streak-stats.demolab.com?user=Akma1" alt="Akbar's github stats" />
       </picture>
-    </a>
+    </a> -->
   <!-- github stats -->
       <a href="https://github-readme-stats.vercel.app/api?username=Akma1&show_icons=true&theme=react&hide_border=true">
       <picture>
