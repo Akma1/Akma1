@@ -3,8 +3,8 @@
 
 <!-- introduction -->
 <h1 align="center">
-  <a href="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=800&pause=1000&color=103748&width=435&lines=Hello+Univers+%F0%9F%91%8B;My+Name+is+Akbar!">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=800&pause=1000&color=103748&width=435&lines=Hello+Univers+%F0%9F%91%8B;My+Name+is+Akbar!">
+  <a href="https://readme-typing-svg.herokuapp.com/?center=true&color=103748&lines=Hello+Univers+%F0%9F%91%8B;My+Name+is+Akbar!">
+    <img src="https://readme-typing-svg.herokuapp.com/?center=true&color=103748&lines=Hello+Univers+%F0%9F%91%8B;My+Name+is+Akbar!">
   </a>
 </h1>
 
