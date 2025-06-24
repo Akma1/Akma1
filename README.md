@@ -46,7 +46,7 @@
       </picture>
       </a>
   </div>
-  
+  <br />
   <!-- contribution graph -->
   <a href="https://github-readme-activity-graph.vercel.app/graph?username=Akma1&theme=react-dark" title="Go to Source">
     <picture>
