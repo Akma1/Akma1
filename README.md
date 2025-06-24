@@ -1,16 +1,24 @@
-## Hi there 👋
+<!-- profile view count -->
+<img align="right" src="https://komarev.com/ghpvc/?username=Akma1">
 
-<!--
-**Akma1/Akma1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- introduction -->
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+Myself+Sanidhya!;&center=true&font=Righteous&size=35">
+  </a>
+</h1>
 
-Here are some ideas to get you started:
+<br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- about me -->
+<p align="center">
+  Hi, I'm Akbar Maulana, Mobile Developer 💻, Lifelong Learner 👨‍💻 & Gamer 🦸‍♂️ from Indonesia 🆔.
+  <br />
+  <br />
+  🎓 I graduated with a Bachelor's degree in Informatics Engineering (S1 Teknik Informatika).
+  <br />
+  💻 I love exploring new technologies and frameworks, especially in mobile development.
+  <br />
+  🧑‍💼 Currently working as a freelance Flutter Developer.
+  <br />
+</p>
