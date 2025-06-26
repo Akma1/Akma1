@@ -30,11 +30,11 @@
 <!-- first row -->
   <div align=center>
   <!-- streak stats -->
-    <a href="https://streak-stats.demolab.com?user=Akma1">
+    <a href="https://streak-stats.demolab.com?user=Akma1&border_color=61dafb">
      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Akma1" />
-        <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://streak-stats.demolab.com?user=Akma1" />
-        <img align="left" width=390 src="https://streak-stats.demolab.com?user=Akma1" alt="Akbar's github stats" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Akma1&border_color=61dafb" />
+        <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://streak-stats.demolab.com?user=Akma1&border_color=61dafb" />
+        <img align="left" width=390 src="https://streak-stats.demolab.com?user=Akma1&border_color=61dafb" alt="Akbar's github stats" />
       </picture>
     </a>
   <!-- github stats -->
