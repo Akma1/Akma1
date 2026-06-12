@@ -29,7 +29,7 @@
 <p align=center>
 <!-- first row -->
   <div align=center>
-  <!-- streak stats -->
+ <!-- streak stats -->
     <a href="https://streak-stats.demolab.com?user=Akma1">
      <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Akma1&theme=react&border_color=61dafb" />
